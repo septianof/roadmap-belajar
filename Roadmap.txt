@@ -1,4 +1,6 @@
-ROADMAP BELAJAR KHUSUS (FOKUS REALISTIS)
+ROADMAP BELAJAR SAYA — PASAR REALISTIS + SKILL JANGKA PANJAN
+
+ROADMAP UTAMA (FOKUS REALISTIS)
 
 ├── FASE 1 — Pondasi Wajib (2-4 Minggu)
 │   ├── Git & GitHub
@@ -51,3 +53,30 @@ ROADMAP BELAJAR KHUSUS (FOKUS REALISTIS)
 │
 └── OPSIONAL (Sangat Jangka Panjang)
     └── Belajar Microservice Concept (Cukup paham konsep saja untuk saat ini)
+
+
+ROADMAP TAMBAHAN (REALISTIS PASAR INDONESIA)
+
+├── UI/UX Basic
+│   ├── Basic Design Principle
+│   ├── Wireframing (Figma / Manual)
+│   └── User Flow Design
+│
+├── Basic Testing
+│   ├── Postman Collection (API Test)
+│   ├── Unit Test Dasar (Kotlin)
+│   └── Manual Testing (Flutter Debugging)
+│
+├── Basic Deployment & Hosting
+│   ├── Laravel API Deployment (VPS/Shared Hosting)
+│   ├── APK Manual Build & Install
+│   └── Domain & DNS Dasar (Opsional)
+│
+└── AI / Machine Learning (Jangka Panjang)
+    ├── Python Dasar
+    ├── Numpy, Pandas (Library Data Science)
+    ├── Statistik & Matematika Dasar
+    ├── Machine Learning Dasar (Scikit-Learn)
+    ├── Neural Network Dasar (TensorFlow / PyTorch)
+    └── Mini Project (contoh: Prediksi Harga, Klasifikasi Data)
+
