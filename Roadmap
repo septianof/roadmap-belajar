@@ -1,0 +1,53 @@
+ROADMAP BELAJAR KHUSUS (FOKUS REALISTIS)
+
+├── FASE 1 — Pondasi Wajib (2-4 Minggu)
+│   ├── Git & GitHub
+│   │   ├── Install Git
+│   │   ├── Init Repo → Commit → Push → Clone
+│   │   └── Dasar branching & merge (opsional)
+│   └── HTTP & JSON
+│       ├── Pahami HTTP Method: GET, POST, PUT, DELETE
+│       ├── Pahami JSON (struktur data API)
+│       └── Tes API Publik pakai Postman
+
+├── FASE 2 — Laravel API Development (1-2 Bulan)
+│   ├── REST API CRUD
+│   │   ├── Buat API Produk/User
+│   │   └── Return JSON
+│   ├── API Authentication
+│   │   └── Laravel Sanctum (token-based auth)
+│   └── Mini Project:
+│       └── API Produk & Transaksi Sederhana
+│
+├── FASE 3 — Mobile Development (Fase Panjang / Paralel)
+│   ├── Mobile Development (Prioritas: Kotlin Native — Fokus Kampus)
+│   │   ├── Kotlin Dasar (adaptasi dari Java)
+│   │   │   ├── Variable, Function, Class
+│   │   │   ├── Flow Control (if, for, while)
+│   │   │   └── OOP Kotlin (pelan-pelan, sambil kuliah)
+│   │   ├── UI Dasar Android (XML)
+│   │   │   ├── Button, TextView, RecyclerView
+│   │   │   └── Activity & Intent
+│   │   ├── Konsumsi API dengan Retrofit
+│   │   │   ├── Ambil Data dari Laravel API
+│   │   │   └── Tampilkan Data di RecyclerView
+│   │   └── Mini Project Kotlin:
+│   │       └── Aplikasi Produk Sederhana dengan API
+│   │
+│   └── Mobile Development (Sampingan Santai: Flutter — Pelan-Pelan)
+│       ├── Dart Dasar (cukup kenalan dulu)
+│       │   ├── Variable, Function, Class
+│       │   └── Null Safety di Dart
+│       ├── Flutter Basic Widget
+│       │   ├── Text, Button, Column, Row
+│       │   └── Layout dasar (Container, Padding, Margin)
+│       ├── Pahami Struktur Flutter (Widget Tree)
+│       └── API Consumption Flutter (Jika sudah siap)
+│           └── Ambil Data Laravel API (pakai http package)
+│
+├── FASE 4 — Integrasi & Portfolio Project (Opsional, Setelah Nyaman)
+│   ├── Integrasi Laravel API + Kotlin App (Prioritas utama)
+│   └── Integrasi Laravel API + Flutter App (Boleh nyusul kalau sudah kuat di Flutter)
+│
+└── OPSIONAL (Sangat Jangka Panjang)
+    └── Belajar Microservice Concept (Cukup paham konsep saja untuk saat ini)
